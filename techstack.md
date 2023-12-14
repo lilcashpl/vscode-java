@@ -54,7 +54,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [lilcashpl/vscode-java](https://github.com/lilcashpl/vscode-java)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|46<br/>Tools used|11/30/23 <br/>Report generated|
+|46<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -227,7 +227,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (1)
+## Other (2)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'>
@@ -237,13 +237,21 @@ Full tech stack [here](/techstack.md)
   <sub>v4.17.21</sub>
 </td>
 
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/6668/9682013.png' alt='Winston'>
+  <br>
+  <sub><a href="https://github.com/winstonjs/winston">Winston</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
 </tr>
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (26)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (25)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (25)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (24)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -270,7 +278,6 @@ Full tech stack [here](/techstack.md)
 |[style-loader](https://www.npmjs.com/style-loader)|v3.3.1|11/16/23|Jinbo Wang |MIT|N/A|
 |[ts-loader](https://www.npmjs.com/ts-loader)|v9.4.2|11/16/23|Jinbo Wang |MIT|N/A|
 |[webpack-cli](https://www.npmjs.com/webpack-cli)|v4.6.0|11/16/23|Jinbo Wang |MIT|N/A|
-|[winston](https://www.npmjs.com/winston)|v3.2.1|11/16/23|Jinbo Wang |MIT|N/A|
 |[winston-daily-rotate-file](https://www.npmjs.com/winston-daily-rotate-file)|v4.7.1|11/22/23|Sheng Chen |MIT|N/A|
 
 
